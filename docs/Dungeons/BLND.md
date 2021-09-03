@@ -6,7 +6,7 @@ An adventure that simulates first contact incursions along the lines of media li
 
 In orbit over Mercury the research station owned by the Black Lotus corporation for New Development (Designation: BL / ND) races around the closest planet to the sun using the plentiful energy to power it’s high energy experiments.  
 
-An eight pointed solar array, each leaf a composite of millions of solar panels stretching almost a kilometer from tip to where it’s attached to a central hub, behind which the actual station sits.  A series of eight cylinders arrayed from the same central hub, each at least 100m in length and 10m in diameter make up the main labs and habitable sections. The last section is easily double the size of the other cylinders, the hanger that juts from the central hub like a stalk of some strange metallic plant, turning to face the sun. 
+An eight pointed solar array, each leaf a composite of millions of solar panels stretching almost a kilometer from tip to where it’s attached to a central hub, behind which the actual station sits.  A series of eight cylinders arrayed from the same central hub, each at least 100m in length and 10m in diameter make up the main labs and habitable sections. The last section is easily double the size of the other cylinders, the hanger that juts from the central hub like a stalk of some strange metallic plant, turning to face the sun.
 
 The researchers on the station have been working on a recent discovery, an anomalous signal coming from the sun.  
 
@@ -35,6 +35,7 @@ But as resolution increases with distance something can be seen to be terribly w
 The warnings come too late, the shuttle is unable to avoid the cloud of screaming fragments.  It only took a second, but the shuttle is disable, unpowered and out of control!  The Party only has moments to figure out a way to get to BL / ND otherwise they will leave the protective shade of the array and be burnt to a crisp.
 
 Options can include:
+
 * Repairing the power and getting the engines online and try to put the shuttle in orbit near the station.
 * Evacuating the shuttle, grabbing whatever supplies they can and make the leap to the station.
 
@@ -46,7 +47,7 @@ Gaining entrance to the actual station is not hard, all airlocks are accessible,
 
 There are several main challenges:
 
-* The station is running on reserve power despite being in a full solar cycle of its orbit.  All of the available power is currently being shunted to HE Lab 2 (Restricted Hab 7). Unless rectified the station will lose power, lights, life support, and station doors will all fail causing the entire station to become hazardous.
+* The station is running on reserve power despite being in the full solar cycle of its orbit.  All of the available power is currently being shunted to HE Lab 2 (Restricted Hab 7). Unless rectified the station will lose power, lights, life support, and station doors will all fail causing the entire station to become hazardous.
 * The main communications computer has been damaged, smashed by the look of it.  A competent tech specialist should be able to bring up the communications array on one of the other computers. However all computer commands have been locked out with admin access only being allowed from the HE 2 Lab
 * When the party starts poking around the station, a transmission 
 
@@ -54,9 +55,11 @@ There are several main challenges:
 
 ## Room Four: Climax, Big Battle, or Conflict
 
+HE Lab 2 has 
+
 ## Room Five: Reward, Revelation, Plot Twist
 
-### Reference Images
+## Reference Images
 
 BLND Station
 ![BLND Station](./BLND.png "BLND Station")
